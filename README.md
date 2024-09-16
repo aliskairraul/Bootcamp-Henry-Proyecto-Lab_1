@@ -71,7 +71,8 @@ Limpieza, ordenamiento y análisis de unos datos acerca de Películas, para post
 
 ## Estructura del Proyecto
 
-1. **Para la parte del Análisis**
+1. **Para la parte del Análisis**<br>
+   **Nota:** Las carpetas `data`, `datasets_inicial`, `model` y sus contenidos internos se irán creando a medida que vaya ejecutando el codigo. La estructura de Carpetas se crea justo despues de la importación de las librerias en el primer cuaderno Notebook (obligatorio ejecutar la celda). Los archivos se guardarán y transformarán a lo largo de los 4 archivos notebooks, sí no dispone de tiempo para ejecutar todas las celdas (hay procesos que gastan tiempo), despreocupe, a medida que se van a ir necesitando los distintos archivos, ya transformados en el codigo hay la opción de irlos descargando de internet.
 
 - `notebooks/`: Incluye los siguiente:
   - `assets/` Imagenes ilustrativas

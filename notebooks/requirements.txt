@@ -1,0 +1,12 @@
+gdown==5.2.0
+joblib==1.4.2
+jupyter==1.1.1
+matplotlib==3.9.2
+numpy==1.26.4
+pandas==1.5.3
+plotly==5.24.0
+polars==1.6.0
+pyarrow==17.0.0
+scikit-learn==1.5.1
+seaborn==0.13.2
+

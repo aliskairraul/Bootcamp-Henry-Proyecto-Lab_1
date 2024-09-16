@@ -1,0 +1,5 @@
+fastapi==0.110.1
+uvicorn
+polars==1.6.0
+numpy==1.26.4
+joblib

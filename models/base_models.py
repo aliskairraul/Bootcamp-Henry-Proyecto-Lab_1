@@ -44,14 +44,17 @@ class BaseRequieredMovies(BaseModel):
     budget: float
     returned: float
 
+
 class BaseDirector(BaseModel):
     director: str
     total_return: float
     requiered_movies: list[BaseRequieredMovies]
 
+
 class BaseRecomendacion(BaseModel):
     num: int
     title: str
+
 
 class BaseRecomendaciones(BaseModel):
     recomendaciones: list[BaseRecomendacion]
